@@ -25,13 +25,11 @@ Performance metrics analyzed:
 - Merged swing metrics with season-long performance stats from FanGraphs.
 - Compared swing tendencies to performance using correlation analysis and regression plots.
 
-## Example Findings (Placeholder)
+## Findings
 
 - Hitters with higher O-Swing% (chasing pitches out of the zone) tended to have lower wOBA, suggesting that over-aggressive approaches negatively impact performance.
 - 1st Pitch Swing% showed weaker correlation to overall offensive performance.
 - Overall Swing% was not strongly tied to wOBA.
-
-*Note: Update this section after analyzing your actual results.*
 
 ## Files Included
 
@@ -46,14 +44,3 @@ Performance metrics analyzed:
 - pandas
 - seaborn
 - matplotlib
-
-## Next Steps
-
-- Extend the analysis to all MLB hitters, not just Cubs players.
-- Explore predictive modeling using swing metrics to predict wOBA.
-- Look at swing aggression broken down by pitch type or count situation (example: 2-strike swing tendencies).
-- Build more interactive or advanced visualizations.
-
-## About
-
-This project was created as a portfolio piece to explore the relationship between swing tendencies and offensive performance in MLB hitters.
